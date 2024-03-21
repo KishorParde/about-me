@@ -1,5 +1,5 @@
-<h1 align="center">Hello World👋, I'm Onkar Londhe</h1>
-<h3 align="center">A Passionate Full Stack Developer.</h3>
+<h1 align="center">Hello World👋, I'm Kishor Parde</h1>
+<h3 align="center">A Passionate Front End Developer.</h3>
 
 - 📫 How to reach me **kishorparde7057000797@gmail.com**
 
